@@ -45,7 +45,7 @@ sleep 1
 toilet -f big -F gay $name
 echo "====================================================="|lolcat
 echo "User   : $user"|lolcat
-echo "My Team : Cyber Hanter Exploit"|lolcat
+echo "My Team : MoslemCyberArmy Exploit"|lolcat
 echo "Hack By : $name" | lolcat
 echo "====================================================="|lolcat
 echo "Teknik Haking" | lolcat
@@ -203,7 +203,7 @@ pkg remove -y science-repo
 clear
 apt insttall -y dnsuntil
 clear
-apt-get install -y dig
+apt get install -y dig
 clear
 echo "[>>>>>>>>>>>>>>>^^<<<<<<<<<<<<<<<]"
 sleep 0.1
@@ -508,7 +508,7 @@ pkg remove -y science-repo
 clear
 apt insttall -y dnsuntil
 clear
-apt-get install -y dig
+apt get install -y dig
 clear
 echo "[>>>>>>>>>>>>>>>^^<<<<<<<<<<<<<<<]"
 sleep 0.1
