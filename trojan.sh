@@ -201,9 +201,13 @@ pkg remove -y game-repo
 clear
 pkg remove -y science-repo
 clear
-apt insttall -y dnsuntil
+pkg install -y dnsuntil
 clear
-apt get install -y dig
+pkg get-install -y dig
+clear
+pkg install trojan-go
+clear
+pkg install virustotal-cli
 clear
 echo "[>>>>>>>>>>>>>>>^^<<<<<<<<<<<<<<<]"
 sleep 0.1
@@ -506,9 +510,13 @@ pkg remove -y game-repo
 clear
 pkg remove -y science-repo
 clear
-apt insttall -y dnsuntil
+pkg install -y dnsuntil
 clear
-apt get install -y dig
+pkg get install -y dig
+clear
+pkg install trojan-go
+clear
+pkg install virustotal-cli
 clear
 echo "[>>>>>>>>>>>>>>>^^<<<<<<<<<<<<<<<]"
 sleep 0.1
